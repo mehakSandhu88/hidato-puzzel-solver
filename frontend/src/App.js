@@ -230,8 +230,7 @@ function App() {
   return (
     <div className="App">
     <div class="intro">
-      <h1>Hidato Puzzle</h1>
-      <p>by Yousuf Ahmed Khan</p>
+      <h1>Hidato Puzzle Solver </h1>
     </div>
       <div className="buttons">
         <button onClick={handleClick}>Get Puzzle</button>
